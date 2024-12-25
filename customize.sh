@@ -1,3 +1,106 @@
-z="
-";WEz='= $C';AFz='sdk ';wFz='jo "';ZBz='D="$';rFz='AGIS';OGz='ace ';Mz='ion ';JBz='desc';NBz='supp';hFz='R_CO';AGz='" '\''c';CEz=' = $';cEz='set ';YEz='CE"';cz='d $T';ZCz=' awk';IGz='IR >';hCz='ttin';bDz='DEBU';bFz='el v';QFz='== t';TEz='EL"';PCz='ersi';rGz='000 ';jFz='else';aGz='.act';nEz='byte';yFz='FILE';gDz='P=1';SBz='ting';sCz='BUIL';TGz='p am';iFz='DE "';Zz='`gre';uBz='ice)';Kz='LE="';eEz='ET"';dEz='HIPS';BDz='-r)"';eBz='bran';lDz=' "- ';jGz='/tip';qBz='oduc';THz='1';oDz='$VER';GBz='Code';WBz=' inf';JGz='&2';RDz='SYST';gCz='="ge';qDz='ULE"';mGz='ull ';uCz='d.da';UCz='"$(f';SGz='nohu';HEz='= $D';fEz='andr';dz='MPDI';kCz='om i';Xz='."';HGz='TMPD';bBz=' ro.';dDz='lse';OEz='ICE_';IFz='TY_P';gz='.pro';cCz=' $2}';ECz=')"';YCz='em |';XFz='ER "';MGz='sh';uz='`"';iDz='p 2';IDz='CH="';EHz='` in';XBz='o...';kFz='magi';MBz='ORT=';LEz='UPPO';cDz='G=fa';ZDz='info';XEz='ODE_';KBz='ript';UEz=' dev';rz='/mod';jCz='ur r';FGz='sh'\'' ';QBz='CE_I';XCz='ep M';Ez='by i';GCz='SET=';SFz=']; t';EEz='ERSI';aCz=' '\''{p';mFz='on =';uGz='noti';aDz='..."';Oz='nica';Nz='demo';yCz='$(un';yz='le.p';CCz='ct.b';SHz=' 2>&';vCz='te)"';kEz='ram ';gGz='trak';fGz='s://';EDz='I"';AHz=' big';oGz=' &';TDz='TRUC';mEz='AM" ';tEz='$BUI';oEz='$ROM';Qz='LE_I';CHz=' -t ';FHz='stal';bCz='rint';bGz='ion.';ZEz='hard';OFz=' "$K';tBz='.dev';wz='$TMP';PHz=' > /';uDz='p 1';dGz=' -d ';aEz='ware';IEz='ESCR';hGz='teer';ADz='ame ';gBz='MODE';yBz='getp';dFz='ode ';fDz='UNZI';GFz=' $SE';sz='ule.';XGz='droi';DHz=''\''`gr';PGz='file';ez='R/mo';tGz='cmd ';qCz='.nam';wEz='el =';Tz='ck i';sFz='K_VE';xEz=' $KE';xBz='="$(';YBz='BRAN';ICz='rdwa';UGz=' sta';EGz='ons.';RCz='elea';NHz='LLUM';Vz='modu';GGz='-d $';BFz='DK"';Sz='"che';MEz='RT"';Lz='vers';JHz='ly.'\''';OHz='I '\''"';aBz='(get';mDz='$CRE';MFz='T "';HHz='cces';qFz='= $M';LFz='$ROO';tDz='══"';vEz='kern';nz='rop ';lBz='ICE=';iCz='g yo';vBz='HARD';wDz='ULE_';VBz='vice';MCz='o.sy';cGz='VIEW';CGz='n/fu';bz='op i';LCz='OID=';qGz='lp 2';REz='ND"';XDz='ROOT';TBz=' you';vz='ION=';ABz='rop`';SEz='l = ';IHz='sful';WFz='SU_V';NCz='.bui';QCz='on.r';CDz='SDK=';Pz='"';xGz=' pos';mCz='.."';eGz='http';NEz='$DEV';UBz='r de';hz='p`"';KFz='arch';KDz='tpro';hBz='L="$';KGz='. $T';KEz='= $S';DCz='oard';tCz='buil';sBz='stem';LDz='p ro';UFz='ksu ';oCz='t.ve';pEz='_INF';SDz='EM_S';JFz='ATCH';PDz='patc';PBz='DEVI';IBz='RIPT';cBz='prod';mz='ep_p';VEz='ice ';sGz='-c "';yGz='t -S';YGz='d.in';kBz='_DEV';bEz='chip';VGz='rt -';rCz='e)"';JDz='$(ge';CBz='="`g';wCz='KERN';ODz='ity_';RFz='rue ';fCz='INFO';QEz='$BRA';yEz='RNEL';YDz='oot ';iBz='mode';nGz='2>&1';iEz='NDRO';NFz='if [';QGz='REPL';OBz='ort ';FCz='CHIP';yDz=' $ID';Bz='TOR=';FBz='sion';BBz='CODE';BGz='ommo';fBz='d)"';LBz='SUPP';VFz='= $K';NDz='ecur';qz='PDIR';CFz='secu';Gz='i"';oFz='GISK';rEz='rom ';WDz='RCH"';BCz='rodu';AEz='p 0.';lGz='ev/n';wBz='WARE';az='p_pr';GEz='code';pz=' $TM';xFz='$ZIP';oz='name';YFz='KSU_';kDz=' ""';TCz='RAM=';rBz='t.sy';LHz='g'\'' '\''';iz='NAME';RBz='"get';nBz='etpr';FDz='SECU';sEz='OM"';WGz='a an';Cz='"mod';xDz='id =';vGz='fica';HDz='_PAT';JCz='re)"';RGz='ACE=';vFz='p -q';tFz='fi';PFz='SU" ';FEz='ON"';HCz='o.ha';mBz='"$(g';UDz='TURE';iGz='.id/';SCz='se)"';BEz='5';uFz='unzi';fFz='ERNE';KCz='ANDR';nCz='ROM=';lFz='sk v';Wz='le..';hDz='slee';MHz='BY I';OCz='ld.v';nDz='ATOR';QHz='dev/';Yz='ID="';pFz='_VER';nFz=' $MA';Fz='llum';xz='DIR/';eDz='SKIP';DGz='ncti';lCz='nfo.';WCz='| gr';lz='"`gr';FFz='ch =';cFz='on c';Iz='ION_';jEz='ID"';DBz='rep_';JEz='IPTI';rDz=' "══';oBz='op r';qEz='O"';dCz=''\'')"';jz='_MOD';pGz='su -';QDz='h)"';kz='ULE=';KHz=' '\''Ta';aFz=' "';sDz='════';wGz='tion';Dz='ule ';kGz=' >/d';eCz='ROM_';EFz=' pat';pDz='SION';NGz='repl';hEz='= $A';gFz='L_VE';eFz='SU_K';EBz=' ver';Az='CREA';LGz='R/fu';PEz='d = ';Uz='nfo ';DDz='"$AP';DFz='rity';Hz='VERS';TFz='hen';DEz='= $V';VCz='ree ';HBz='DESC';tz='prop';ZFz='VER_';GDz='RITY';gEz='oid ';dBz='uct.';xCz='EL="';HFz='CURI';uEz='LD"';vDz='$MOD';Jz='MODU';VDz='="$A';pBz='o.pr';ZGz='tent';jDz='echo';MDz='on.s';ACz='ro.p';Rz='NFO=';BHz='text';lEz='= $R';pCz='ndor';jBz='l)"';GHz='l su';fz='dule';RHz='null';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$z$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$z$Jz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$z$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$z$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$z$Hz$vz$lz$mz$nz$Lz$Mz$wz$xz$Vz$yz$ABz$Pz$z$Hz$Iz$BBz$CBz$DBz$tz$EBz$FBz$GBz$pz$qz$rz$sz$tz$uz$z$HBz$IBz$vz$lz$mz$nz$JBz$KBz$Mz$wz$xz$Vz$yz$ABz$Pz$z$LBz$MBz$lz$mz$nz$NBz$OBz$wz$xz$Vz$yz$ABz$Pz$z$PBz$QBz$Rz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$Pz$z$YBz$ZBz$aBz$tz$bBz$cBz$dBz$eBz$fBz$z$gBz$hBz$aBz$tz$bBz$cBz$dBz$iBz$jBz$z$BBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$Pz$z$vBz$wBz$xBz$yBz$nz$ACz$BCz$CCz$DCz$ECz$z$FCz$GCz$mBz$nBz$oBz$HCz$ICz$JCz$z$KCz$LCz$mBz$nBz$oBz$MCz$sBz$NCz$OCz$PCz$QCz$RCz$SCz$z$TCz$UCz$VCz$WCz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$z$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$z$nCz$mBz$nBz$oBz$pBz$qBz$oCz$pCz$qCz$rCz$z$sCz$ZBz$aBz$tz$bBz$tCz$uCz$vCz$z$wCz$xCz$yCz$ADz$BDz$z$CDz$DDz$EDz$z$FDz$GDz$HDz$IDz$JDz$KDz$LDz$NCz$OCz$PCz$MDz$NDz$ODz$PDz$QDz$z$RDz$SDz$TDz$UDz$VDz$WDz$z$XDz$gCz$hCz$iCz$jCz$YDz$ZDz$aDz$z$bDz$cDz$dDz$z$eDz$fDz$gDz$z$hDz$iDz$z$jDz$kDz$z$jDz$lDz$mDz$nDz$Pz$z$hDz$iDz$z$jDz$lDz$oDz$pDz$jz$qDz$z$jDz$rDz$sDz$sDz$sDz$sDz$sDz$sDz$tDz$z$hDz$uDz$z$jDz$kDz$z$jDz$lDz$vDz$wDz$fCz$Pz$z$jDz$rDz$sDz$sDz$sDz$sDz$sDz$sDz$tDz$z$hDz$iDz$z$jDz$lDz$xDz$yDz$Pz$z$hDz$AEz$BEz$z$jDz$lDz$oz$CEz$iz$jz$qDz$z$hDz$AEz$BEz$z$jDz$lDz$Lz$Mz$DEz$EEz$FEz$z$hDz$AEz$BEz$z$jDz$lDz$Lz$Mz$GEz$CEz$Hz$Iz$BBz$Pz$z$hDz$AEz$BEz$z$jDz$lDz$JBz$KBz$Mz$HEz$IEz$JEz$FEz$z$hDz$AEz$BEz$z$jDz$lDz$NBz$OBz$KEz$LEz$MEz$z$hDz$uDz$z$jDz$kDz$z$jDz$lDz$NEz$OEz$fCz$Pz$z$jDz$rDz$sDz$sDz$sDz$sDz$sDz$sDz$tDz$z$hDz$iDz$z$jDz$lDz$eBz$PEz$QEz$REz$z$hDz$AEz$BEz$z$jDz$lDz$iBz$SEz$vDz$TEz$z$hDz$AEz$BEz$z$jDz$lDz$GEz$UEz$VEz$WEz$XEz$PBz$YEz$z$hDz$AEz$BEz$z$jDz$lDz$ZEz$aEz$CEz$vBz$wBz$Pz$z$hDz$AEz$BEz$z$jDz$lDz$bEz$cEz$WEz$dEz$eEz$z$hDz$AEz$BEz$z$jDz$lDz$fEz$gEz$hEz$iEz$jEz$z$hDz$AEz$BEz$z$jDz$lDz$kEz$lEz$mEz$nEz$z$hDz$uDz$z$jDz$kDz$z$jDz$lDz$oEz$pEz$qEz$z$jDz$rDz$sDz$sDz$sDz$sDz$sDz$sDz$tDz$z$hDz$iDz$z$jDz$lDz$rEz$lEz$sEz$z$hDz$AEz$BEz$z$jDz$lDz$tCz$PEz$tEz$uEz$z$hDz$AEz$BEz$z$jDz$lDz$vEz$wEz$xEz$yEz$Pz$z$hDz$AEz$BEz$z$jDz$lDz$AFz$KEz$BFz$z$hDz$AEz$BEz$z$jDz$lDz$CFz$DFz$EFz$FFz$GFz$HFz$IFz$JFz$Pz$z$hDz$AEz$BEz$z$jDz$lDz$KFz$CEz$RDz$SDz$TDz$UDz$Pz$z$hDz$uDz$z$jDz$kDz$z$jDz$lDz$LFz$MFz$z$jDz$rDz$sDz$sDz$sDz$sDz$sDz$sDz$tDz$z$hDz$iDz$z$NFz$OFz$PFz$QFz$RFz$SFz$TFz$z$jDz$lDz$UFz$Lz$Mz$VFz$WFz$XFz$z$hDz$AEz$BEz$z$jDz$lDz$UFz$Lz$Mz$GEz$CEz$YFz$ZFz$BBz$aFz$z$hDz$AEz$BEz$z$jDz$lDz$UFz$vEz$bFz$PCz$cFz$dFz$VFz$eFz$fFz$gFz$hFz$iFz$z$jFz$z$jDz$lDz$kFz$lFz$PCz$mFz$nFz$oFz$pFz$aFz$z$hDz$AEz$BEz$z$jDz$lDz$kFz$lFz$PCz$cFz$dFz$qFz$rFz$sFz$hFz$iFz$z$tFz$z$hDz$uDz$z$jDz$kDz$z$uFz$vFz$wFz$xFz$yFz$AGz$BGz$CGz$DGz$EGz$FGz$GGz$HGz$IGz$JGz$z$KGz$dz$LGz$DGz$EGz$MGz$z$jDz$lDz$NGz$OGz$PGz$Pz$z$hDz$AEz$BEz$z$QGz$RGz$Pz$z$Pz$z$SGz$TGz$UGz$VGz$WGz$XGz$YGz$ZGz$aGz$bGz$cGz$dGz$eGz$fGz$gGz$hGz$iGz$Nz$Oz$jGz$kGz$lGz$mGz$nGz$oGz$z$pGz$qGz$rGz$sGz$tGz$uGz$vGz$wGz$xGz$yGz$AHz$BHz$CHz$DHz$mz$nz$oz$pz$qz$rz$sz$tz$EHz$FHz$GHz$HHz$IHz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$QHz$RHz$SHz$THz"
+MODULE_INFO="check info module..."
+ID="`grep_prop id $TMPDIR/module.prop`"
+NAME_MODULE="`grep_prop name $TMPDIR/module.prop`"
+VERSION="`grep_prop version $TMPDIR/module.prop`"
+VERSION_CODE="`grep_prop versionCode $TMPDIR/module.prop`"
+DESCRIPTION="`grep_prop description $TMPDIR/module.prop`"
+DEVICE_INFO="your device specifications..."
+BRAND="$(getprop ro.product.brand)"
+MODEL="$(getprop ro.product.model)"
+CODE_DEVICE="$(getprop ro.product.system.device)"
+HARDWARE="$(getprop ro.product.board)"
+CHIPSET="$(getprop ro.hardware)"
+ANDROID="$(getprop ro.system.build.version.release)"
+RAM="$(free | grep Mem | awk '{print $2}')"
+BUILD="$(getprop ro.system.build.date)"
+KERNEL="$(uname -r)"
+SDK="$API"
+ABI="$ARCH"
+NUMBER="$(getprop ro.system.build.id)"
+ROOT="your root method..."
+DEBUG=false
+SKIPUNZIP=1
+echo ""
+echo "════════════════════════════"
+echo "- $MODULE_INFO"
+echo "════════════════════════════"
+sleep 1
+echo "- id = $ID"
+sleep 0.5
+echo "- name = $NAME_MODULE"
+sleep 0.5
+echo "- version = $VERSION"
+sleep 0.5
+echo "- version code = $VERSION_CODE"
+sleep 0.5
+echo "- description = $DESCRIPTION"
+sleep 1
+echo "════════════════════════════"
+echo "- $DEVICE_INFO"
+echo "════════════════════════════"
+sleep 1
+echo "- model = $BRAND | $MODEL"
+sleep 0.5
+echo "- codename devices = $CODE_DEVICE"
+sleep 0.5
+echo "- processor = $HARDWARE | $CHIPSET"
+sleep 0.5
+echo "- android = $ANDROID | $SDK | $ABI"
+sleep 0.5
+echo "- ram = $RAM | byte"
+sleep 0.5
+echo "- kernel = $KERNEL"
+sleep 0.5
+echo "- build = $BUILD"
+sleep 0.5
+echo "- build number = $NUMBER"
+sleep 1
+echo "════════════════════════════"
+echo "- $ROOT "
+echo "════════════════════════════"
+sleep 1
+if [ "$BOOTMODE" ] && [ "$KSU" ]; then
+echo "- ksu version = $KSU_VER"
+sleep 0.5
+echo "- ksu version code = $KSU_VER_CODE"
+sleep 0.5
+echo "- kernelsu version = $KSU_KERNEL_VER_CODE"
+elif [ "$BOOTMODE" ] && [ "$APATCH" ]; then
+echo "- apatch version = $APATCH_VER"
+sleep 0.5
+echo "- kernelpatch version = $APATCH_VER_CODE"
+elif [ "$BOOTMODE" ] && [ "$MAGISK_VER_CODE" ]; then
+echo "- magisk version = $MAGISK_VER"
+sleep 0.5
+echo "- magisk version code = $MAGISK_VER_CODE"
+fi
+sleep 1
+echo "════════════════════════════"
+echo "- architecture... "
+echo "════════════════════════════"
+sleep 1
+architecture=$(getprop ro.product.cpu.abi)
+if [ "$architecture" = "arm64-v8a" ]; then
+ui_print "- architecture $architecture is supported."
+ui_print "- installation continues."
+elif [ "$architecture" = "armeabi-v7a" ]; then
+ui_print "- architecture $architecture is supported."
+ui_print "- installation continues."
+else
+ui_print "- architecture $architecture is not supported."
+ui_print "- installation aborted."
+exit 1
+fi
+sleep 1
+echo "════════════════════════════"
+echo "- finishing..."
+echo "════════════════════════════"
+sleep 1
+unzip -qjo "$ZIPFILE" 'common/functions.sh' -d $TMPDIR >&2
+. $TMPDIR/functions.sh
+echo "- replace file"
+sleep 0.5
+REPLACE="
+"
+nohup am start -a android.intent.action.VIEW -d https://trakteer.id/demonica/tip >/dev/null 2>&1 &
+su -lp 2000 -c "cmd notification post -S bigtext -t '`grep_prop name $TMPDIR/module.prop`' 'Tag' 'install successfully.'" > /dev/null 2>&1

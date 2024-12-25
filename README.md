@@ -1,17 +1,16 @@
 > ![20241111_190644](https://github.com/user-attachments/assets/d10508d5-4f00-4afd-9a88-da7ab4b299fd)
 
 > **DESCRIPTION...**    
-> SDMaid Sqlite3 Update for arm64 devices.
+> SDMaid Sqlite3 Update for arm64 devices. [Source](https://www.sqlite.org/)
 <hr/>
 
 > [!TIP]
 > 1. Open Magisk Manager or Ksu or APatch
-> 2. Install module [SDMaid Sqlite3 Update 3.47.0](https://t.me/modulkuntul)
+> 2. Install module [SDMaid Sqlite3 Update 3.47.2](https://t.me/modulkuntul)
 > 3. Reboot
 <hr/>
 
 > [!NOTE]
-> - Support Android 10-15
 > - Support [Ksu](https://github.com/tiann/KernelSU/releases)-[APatch](https://github.com/bmax121/APatch/releases/tag/10763)-[Magisk](https://github.com/topjohnwu/Magisk/releases/tag/v28.0)
 > - Download [Sdmaid](https://play.google.com/store/apps/details?id=eu.thedarken.sdm)
 <hr/>
@@ -30,7 +29,6 @@
 > Tested on several devices such as.     
 > Redmi Note 12 4G NFC (TOPAZ)     
 > Redmi Note 8 (GINKGO)     
-> Redmi Note 7 (LAVENDER)
 <hr/>
 
 > [![Telegram URL](https://img.shields.io/badge/Telegram-Join-2CA5E?style=social&logo=telegram)](https://t.me/modulkuntul)
