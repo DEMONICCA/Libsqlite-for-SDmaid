@@ -1,7 +1,7 @@
 id=SDMAID
 name=SDMaid Sqlite3 Update
-version=v3.47.2
-versionCode=3
+version=v3.48.0
+versionCode=4
 author=@illumi
 description=SDMaid Sqlite3 Update for arm64 devices.
 support=https://trakteer.id/demonica/tip
