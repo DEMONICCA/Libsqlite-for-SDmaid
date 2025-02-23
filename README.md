@@ -1,8 +1,8 @@
-> ![Image](https://github.com/user-attachments/assets/70f69218-e87a-42e2-843e-ee99fba6f2d7)
+> ![Image](https://github.com/user-attachments/assets/b0ae388c-b5e6-4b7f-8a3f-4b4b5fe6125d)
 
 > [!NOTE]
 > Description 📝:
-> - This Magisk module updates the `libsqlite3` library in the SD Maid application automatically.
+> - This Magisk module updates the `libsqlite` library in the SD Maid application automatically.
 <hr/>
 
 > [!IMPORTANT]
@@ -10,7 +10,7 @@
 > 1. Supports `ARM64, ARMv7a, x86, and x86_64` architectures. ✔️
 > 2. Automatic architecture detection. ✔️
 > 3. Delete unused binary files automatically. ✔️
-> 4. Libsqlite3 version: `3.49.0`. ✔️
+> 4. Libsqlite version: `3.49.0`. ✔️
 > 5. You can also update your sqlite3 database with this module [SQLite3 for Android](https://github.com/DEMONICCA/SQLite3-for-Android.git). ✔️
 <hr/>
 
