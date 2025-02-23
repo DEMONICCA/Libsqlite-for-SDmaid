@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > Description 📝:
-> - This Magisk module updates the `libsqlite` library in the SD Maid application automatically.
+> - This Magisk module is designed to update the `libsqlite` library used by the `SD Maid` app on Android devices.
 <hr/>
 
 > [!IMPORTANT]
