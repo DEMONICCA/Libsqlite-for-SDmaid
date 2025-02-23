@@ -1,40 +1,37 @@
-> ![20241111_190644](https://github.com/user-attachments/assets/d10508d5-4f00-4afd-9a88-da7ab4b299fd)
-
-> **DESCRIPTION...**    
-> SDMaid Sqlite3 Update for arm64 devices. [Source](https://www.sqlite.org/)
-<hr/>
-
-> [!TIP]
-> 1. Open Magisk Manager or Ksu or APatch
-> 2. Install module [SDMaid Sqlite3 Update 3.48.0](https://t.me/modulkuntul)
-> 3. Reboot
-<hr/>
+> ![Image](https://github.com/user-attachments/assets/70f69218-e87a-42e2-843e-ee99fba6f2d7)
 
 > [!NOTE]
-> - Support [Ksu](https://github.com/tiann/KernelSU/releases)-[APatch](https://github.com/bmax121/APatch/releases/tag/10763)-[Magisk](https://github.com/topjohnwu/Magisk/releases/tag/v28.0)
-> - Download [Sdmaid](https://play.google.com/store/apps/details?id=eu.thedarken.sdm)
-<hr/>
-
-> [!WARNING]
-> I will not take responsibility if a problem occurs.     
-> Not all roms are profitable, so be careful.
-<hr/>
-
-> [!CAUTION]
-> If the module I created causes a bootlop, it is at your own risk    
-> I have tested it on several devices below.
+> Description 📝:
+> - This Magisk module updates the `libsqlite3` library in the SD Maid application automatically.
 <hr/>
 
 > [!IMPORTANT]
-> Tested on several devices such as.     
-> Redmi Note 12 4G NFC (TOPAZ)     
-> Redmi Note 8 (GINKGO)     
+> Features 🚀:
+> 1. Supports `ARM64, ARMv7a, x86, and x86_64` architectures. ✔️
+> 2. Automatic architecture detection. ✔️
+> 3. Delete unused binary files automatically. ✔️
+> 4. Libsqlite3 version: `3.49.0`. ✔️
+> 5. You can also update your sqlite3 database with this module [SQLite3 for Android](https://github.com/DEMONICCA/SQLite3-for-Android.git). ✔️
 <hr/>
 
-> [![Telegram URL](https://img.shields.io/badge/Telegram-Join-2CA5E?style=social&logo=telegram)](https://t.me/modulkuntul)
-> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="40">&nbsp;
->   
-> [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/illumi666)
-> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
-> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+> [!TIP]
+> Installation ✳️:
+> 1. Make sure Magisk, KSU, or Apatch is Installed
+> 2. Download [Module](https://t.me/modulkuntul)
+> 3. Installation via Magisk/KSU/Apatch Manager
+> 4. Reboot the device after the installation is complete.
+> 5. After the installation is complete, you can check the changes in the [SD maid](https://play.google.com/store/apps/details?id=eu.thedarken.sdm) App click the triple line in `Overview` press `sqlite` then you will see the version changes.
 <hr/>
+
+<div align="center">
+  If you like my work, please follow me or star my work on GitHub       
+ 
+  You can also show your concern by donating below.
+<div align="center">
+ </div>
+<hr/>
+  
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/illumi666)
+[![](https://img.shields.io/badge/-Trakteer-red?style=for-the-badge)](https://trakteer.id/demonica/tip)
+[![Saweria](https://img.shields.io/badge/-Saweria-yellow?style=for-the-badge&logoColor=white)](https://saweria.co/DEMONICA)
+[![Paypal](https://img.shields.io/badge/Paypal-blue?style=for-the-badge&logoColor=white)](https://www.paypal.com/paypalme/faniadittiya)
