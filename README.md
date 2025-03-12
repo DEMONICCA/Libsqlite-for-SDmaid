@@ -1,4 +1,4 @@
-> ![Image](https://github.com/user-attachments/assets/b0ae388c-b5e6-4b7f-8a3f-4b4b5fe6125d)
+> ![Image](https://github.com/user-attachments/assets/66561f56-9735-4b48-9404-f4220d6b2d10)
 
 > [!NOTE]
 > Description 📝:
@@ -10,7 +10,7 @@
 > 1. Supports `ARM64, ARMv7a, x86, and x86_64` architectures. ✔️
 > 2. Automatic architecture detection. ✔️
 > 3. Delete unused binary files automatically. ✔️
-> 4. Libsqlite version: `3.49.0`. ✔️
+> 4. Libsqlite version: `3.49.1`. ✔️
 > 5. You can also update your sqlite3 database with this module [SQLite3 for Android](https://github.com/DEMONICCA/SQLite3-for-Android.git). ✔️
 <hr/>
 
