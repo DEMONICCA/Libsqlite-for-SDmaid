@@ -1,8 +1,8 @@
 id=SDMAID
-name=Libsqlite for SDmaid
+name=Libsqlite for SD Maid
 version=3.49.1
-versionCode=20250310
+versionCode=20250531
 author=@illumi
-description=This Magisk module is designed to update the libsqlite library used by the SD Maid app on Android devices.
+description=Update libsqlite for SD Maid with Magisk. Applies optimized native library for better compatibility and performance.
 support=https://trakteer.id/demonica/tip
 donate=https://www.paypal.com/paypalme/faniadittiya
