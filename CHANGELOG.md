@@ -2,6 +2,13 @@
 > - All significant changes to this project will be documented here.
 ---
 
+> [3.49.1] - `20250801` `The Final end`
+>
+> - Fixed typo code in `customize.sh` is now safe.
+> - Update or change `README.md` to make it more professional.
+> - Everything else is still the same.
+---
+
 > [3.49.1] - `20250716` `Final`
 >
 > - Add module banner for KernelSU Next.
