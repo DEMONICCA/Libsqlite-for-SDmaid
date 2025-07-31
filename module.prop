@@ -1,7 +1,7 @@
 id=SDMAID
 name=Libsqlite for SD Maid
 version=3.49.1
-versionCode=20250716
+versionCode=20250801
 author=@illumi
 description=Update libsqlite for SD Maid with Magisk. Applies optimized native library for better compatibility and performance.
 support=https://trakteer.id/demonica/tip
